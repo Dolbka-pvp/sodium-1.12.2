@@ -3,7 +3,7 @@
 </p>
 
 # Vintagium
-VintagiumCore is an Unofficial Fork of Asek3's ["Vintagium"](https://modrinth.com/mod/sodium)](https://github.com/Asek3/sodium-1.12), with created .JAR file.
+VintagiumCore is an Unofficial Fork of Asek3's ["Vintagium"](https://modrinth.com/mod/sodium)(https://github.com/Asek3/sodium-1.12), with created .JAR file.
 
 ## Disclaimer
 VintagiumCore is not and never will be compatible with Optifine!
