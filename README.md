@@ -7,9 +7,11 @@ VintagiumCore is an Unofficial Fork of Asek3's ["Vintagium"](https://modrinth.co
 
 
 ## Disclaimer
+=====================================================
 ##EN: 
 VintagiumCore is not and never will be compatible with Optifine!
 This mod works only on CleanroomMC mod loader (Custom forge mod loader) with Java 21
+=====================================================
 ##RU: 
 VintagiumCore никогда не будет работать с OptiFine!
 Этот мод работает только на CleanroomMC (кастомный загрузчик Forge) with Java 21
