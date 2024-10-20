@@ -2,7 +2,7 @@
   <img src="logo.png" width="250">
 </p>
 
-# VintagiumCore - A Sdium 1.12.2
+# VintagiumCore - A sodium 1.12.2
 VintagiumCore (Sodium 1.12.2) is an Unofficial Fork of Asek3's ["Vintagium"](https://modrinth.com/mod/sodium)(https://github.com/Asek3/sodium-1.12), with created .JAR file.
 
 
